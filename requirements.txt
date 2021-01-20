@@ -1,0 +1,4 @@
+flask
+flask_sqlalchemy
+mysql-connector-python
+mysqlclient
